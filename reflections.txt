@@ -1,0 +1,17 @@
+In the first lecture I learned the following:
+
+1. Create a Repo - Created a Github repository. 
+
+2. Created a directory using the mkdir command to house my coding files from the text editor.
+
+3. Used an SSH key from the Github repository to clone a local file I created using terminal commands.
+
+4. Created a text file using touch test.txt.
+
+5. Modified this text file and then used Git Status, Git add, Git Commit and Git Push to push the files to the internet. 
+
+6. Used a pull request from Git Hub to upload the files.
+
+6. Then repeated this process deleting lines and inserting new lines.
+
+6. Used a pull request to upload this, splitting the branch. Review and accepted the changes to merge the split branch to the main branch.
