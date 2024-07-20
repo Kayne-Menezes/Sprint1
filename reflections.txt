@@ -15,3 +15,28 @@ In the first lecture I learned the following:
 6. Then repeated this process deleting lines and inserting new lines.
 
 6. Used a pull request to upload this, splitting the branch. Review and accepted the changes to merge the split branch to the main branch.
+
+Question 1:
+1. The command line is like HTML without CSS, its operational but looks incredibly ugly.
+
+Question 2.
+
+pwd - prints the directory that you're currently in. Essentially tells you where you are.
+
+ls - Shows you the files in your directory.
+
+cd - Changes directory.
+
+cd .. - Goes back to your previous directory.
+
+mkdir - Creates a directory.
+
+rmdir - Removes a directory.
+
+touch - Creates a new file.
+
+rm - Removes a file.
+
+Question 4:
+
+I learned that you can write commit messages in the terminal itself.
