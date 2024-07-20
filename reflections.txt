@@ -52,3 +52,7 @@ I notice that reflections really help me go back over what I've previously learn
 I wouldn't do anything different specifically, I think I've worked efficiently to understand the material so far.
 
 To my non-tech-savvy friends, I would describe staging like an audition process, marking the singers who have talent. Committing is choosing who goes up on stage (safely storing the files we want to keep).
+
+The main should be the ideal, finalised and stable version of the project. A branch is beta which still needs review and testing and is often created when we want to upgrade the code, add new features etc. We don't merge it with the main until review is done to avoid updating a bug-ridden piece of code into the project.
+
+The concepts introduced feel intuitive, don't seem too difficult at this point to understand.
