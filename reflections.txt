@@ -56,3 +56,5 @@ To my non-tech-savvy friends, I would describe staging like an audition process,
 The main should be the ideal, finalised and stable version of the project. A branch is beta which still needs review and testing and is often created when we want to upgrade the code, add new features etc. We don't merge it with the main until review is done to avoid updating a bug-ridden piece of code into the project.
 
 The concepts introduced feel intuitive, don't seem too difficult at this point to understand.
+
+Can't clone ko-wai-koe because the webpage is unavailable. However, I believe I understand how to clone a repository.
