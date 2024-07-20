@@ -1,4 +1,6 @@
-Hi there Kayne, you are so cool!!
+
 Test commit 2 - if you get this sorted in one attempt you're even cooler than before.
 
 Test commit 3 - Split branch test.
+
+Test Commit 4 - Deleted first message sadly.
