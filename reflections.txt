@@ -44,3 +44,9 @@ I learned that you can write commit messages in the terminal itself.
 Version Control Software allows groups of people to work together on the same code simultaneously without overwriting eachothers work.
 
 Git is a software tool installed on our local machine that we download. Github is a service that you sign up to on the internet. Its a service on the internet.
+
+A Git Workflow is a recipe or recommendation for how to use Git to accomplish work in a consistent and productive manner. 
+
+I notice that reflections really help me go back over what I've previously learned to understand the purpose of what I'm doing, and why I'm doing it. When I get confused or blocked, I take a second to go back over what I learned "just in time" method to work out an answer, if I can't find a solution - I'll explore google for a possible answer to solve my problem, rinse and repeat until I can figure it out.
+
+I wouldn't do anything different specifically, I think I've worked efficiently to understand the material so far.
