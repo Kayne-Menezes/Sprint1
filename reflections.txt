@@ -1,0 +1,58 @@
+In the first lecture I learned the following:
+
+1. Create a Repo - Created a Github repository. 
+
+2. Created a directory using the mkdir command to house my coding files from the text editor.
+
+3. Used an SSH key from the Github repository to clone a local file I created using terminal commands.
+
+4. Created a text file using touch test.txt.
+
+5. Modified this text file and then used Git Status, Git add, Git Commit and Git Push to push the files to the internet. 
+
+6. Used a pull request from Git Hub to upload the files.
+
+6. Then repeated this process deleting lines and inserting new lines.
+
+6. Used a pull request to upload this, splitting the branch. Review and accepted the changes to merge the split branch to the main branch.
+
+Question 1:
+1. The command line is like HTML without CSS, its operational but looks incredibly ugly.
+
+Question 2.
+
+pwd - prints the directory that you're currently in. Essentially tells you where you are.
+
+ls - Shows you the files in your directory.
+
+cd - Changes directory.
+
+cd .. - Goes back to your previous directory.
+
+mkdir - Creates a directory.
+
+rmdir - Removes a directory.
+
+touch - Creates a new file.
+
+rm - Removes a file.
+
+Question 4:
+
+I learned that you can write commit messages in the terminal itself.
+
+Version Control Software allows groups of people to work together on the same code simultaneously without overwriting eachothers work.
+
+Git is a software tool installed on our local machine that we download. Github is a service that you sign up to on the internet. Its a service on the internet.
+
+A Git Workflow is a recipe or recommendation for how to use Git to accomplish work in a consistent and productive manner. 
+
+I notice that reflections really help me go back over what I've previously learned to understand the purpose of what I'm doing, and why I'm doing it. When I get confused or blocked, I take a second to go back over what I learned "just in time" method to work out an answer, if I can't find a solution - I'll explore google for a possible answer to solve my problem, rinse and repeat until I can figure it out.
+
+I wouldn't do anything different specifically, I think I've worked efficiently to understand the material so far.
+
+To my non-tech-savvy friends, I would describe staging like an audition process, marking the singers who have talent. Committing is choosing who goes up on stage (safely storing the files we want to keep).
+
+The main should be the ideal, finalised and stable version of the project. A branch is beta which still needs review and testing and is often created when we want to upgrade the code, add new features etc. We don't merge it with the main until review is done to avoid updating a bug-ridden piece of code into the project.
+
+The concepts introduced feel intuitive, don't seem too difficult at this point to understand.
