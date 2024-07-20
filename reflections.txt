@@ -40,3 +40,7 @@ rm - Removes a file.
 Question 4:
 
 I learned that you can write commit messages in the terminal itself.
+
+Version Control Software allows groups of people to work together on the same code simultaneously without overwriting eachothers work.
+
+Git is a software tool installed on our local machine that we download. Github is a service that you sign up to on the internet. Its a service on the internet.
