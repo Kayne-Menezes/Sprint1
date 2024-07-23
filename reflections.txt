@@ -56,3 +56,16 @@ To my non-tech-savvy friends, I would describe staging like an audition process,
 The main should be the ideal, finalised and stable version of the project. A branch is beta which still needs review and testing and is often created when we want to upgrade the code, add new features etc. We don't merge it with the main until review is done to avoid updating a bug-ridden piece of code into the project.
 
 The concepts introduced feel intuitive, don't seem too difficult at this point to understand.
+
+Can't clone ko-wai-koe because the webpage is unavailable. However, I believe I understand how to clone a repository.
+
+Fork and Clone
+	- Created a fork of the repository but don't yet know how to make a private fork. It seems that you need to have a student email address to sign up to Dev-Academy's github organisation. However, I do not have this.
+
+Human Skills - Thinking like a programmer
+
+The common themes of thinking like a programmer are thinking through the problem in a logical manner, attacking a problem with different approaches. Collaborating with others to gain different perspectives and ideas. Breaking the problem down into smaller chunks to understand it better.
+
+Flipped learning is a methodology where students are exposed to resources before teaching so they can gain exposure to the issues they will be dealing with and acclimatised before the solutions are explored together. It also allows for further reflection in a collegial environment, we get exposure to the issues alone, and then come together to work to solve it and reflect on everyones ideas at the end to take away the best ideas of the group as a whole.
+
+
